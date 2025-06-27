@@ -17,7 +17,7 @@ const Home = () => {
 
   const products = [
     { id: 1, title: "Casual Shirt", image: "https://images.meesho.com/images/products/432113074/xhwhu_512.webp" },
-    { id: 2, title: "T-Shirt", image: "https://airtex.in/cdn/shop/files/Men-stylish-T-Shirt-Black-milenge-white-with-red-stripe-Airtex-64878688.jpg?v=1721400696" },
+    { id: 2, title: "T-Shirt", image: "https://d2fy0k1bcbbnwr.cloudfront.net/Designs_Inners_and_Outers/Tshirts/Men/tshirt_hs_men_pat_d48_o.jpg" },
     { id: 3, title: "Shoes", image: "https://rukminim2.flixcart.com/image/850/1000/xif0q/shoe/o/7/u/7-pista-7-roaster-white-original-imagwdw5fgx2hepm.jpeg?q=90&crop=false" },
     { id: 4, title: "Pants", image: "https://m.media-amazon.com/images/I/81mM4hFegbL._AC_UY350_.jpg" },
     { id: 5, title: "Kids Ethnic Wear", image: "https://www.momshome.in/cdn/shop/files/2_1_4.jpg?v=1720620921" },
